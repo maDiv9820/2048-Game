@@ -1,1 +1,2 @@
 # 2048-Game
+It is the implementation of the 2048-Game in python. It consist of 3 files:- logic.py, constant.py and 2048.py. logic.py contains all the logic related to the gameplay, constant.py contains the constant values related to the design of the game and  2048.py contains all the working of the game. An additional library 'tkinter' of Python has been used for the GUI part of the game. To run the game, run the 2048.py file.
